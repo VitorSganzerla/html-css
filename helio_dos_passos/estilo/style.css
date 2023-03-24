@@ -1,0 +1,60 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(../fontes/BebasNeue-Regular.ttf) format(truetype);
+}
+header a {
+    padding: 10px 20px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    transition-duration: 3s;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+body {
+    background-image: radial-gradient(#ed1515, #02cb45);
+    font-family: 'Bebas Neue';
+    padding: 10px;
+}
+body h1 {
+    background-image: linear-gradient(to right, #d3e506, transparent);
+    color: #d3e506;
+    padding-left: 4px;
+    font-size: 2.4em;
+    font-weight: bold;
+    text-align: right;
+}
+body h2 {
+    background-image: linear-gradient(to right, #eb09d8, transparent);
+    color: #eb09d8;
+    padding-left: 4px;
+    font-size: 1.6em;
+    text-align: right;
+}
+body p {
+    color: #0637e6;
+    text-indent: 20px;
+    font-weight: bolder;
+    font-size: 1.3em;
+    line-height: 45px;text-align: center;
+}
+body a {
+    text-decoration: none;
+    color: #f2ff00;
+}
+body a:hover {
+    text-decoration: underline;
+    padding: 40px;
+    background-color: #ff0000;
+    border-radius: 20px;
+}
+picture {
+    background-color: #ff00d0;
+    width: 100%;
+}
+img {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
