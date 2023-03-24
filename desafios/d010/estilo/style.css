@@ -94,7 +94,7 @@ main p {
     text-align: justify;
     text-indent: 30px;
     font-size: 1em;
-    line-height: 1.4em;
+    line-height: 1.8em;
 }
 main strong {
     color: var(--cor3);
