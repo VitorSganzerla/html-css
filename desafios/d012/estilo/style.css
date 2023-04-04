@@ -17,8 +17,10 @@ header a:hover {
     color: #8b0e00;
     transition-duration: 1s;
 }
-main {
-    text-indent: 25px;
+section p {
+    padding-top: 12px;
+    margin-bottom: 20px;
+    margin-left: 20px;
 }
 #container {
     width: 100vw;
